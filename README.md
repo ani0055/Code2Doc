@@ -275,9 +275,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+**Animesh Gawhale**  - aniemsh.rgawhale@gmail.com
 
-**Project Link:** [https://github.com/yourusername/code2doc](https://github.com/yourusername/code2doc)
+**Project Link:** [https://github.com/ani0055/code2doc](https://github.com/ani0055/code2doc)
 
 ---
 
